@@ -1,4 +1,4 @@
-## **Hasan Basri**  
+# **Hasan Basri**  
 **About Me**  
 Hi, I'm Hasan Basri, I'm studying Front-End and Back-end Develover. My focus is on writing clean and efficient code and creating user-friendly interfaces. I specialize in HTML, CSS, JavaScript, and modern front-end frameworks like React.js.
 - **Skills:** Responsive Design, SEO Optimization, Cross-Browser Compatibility
