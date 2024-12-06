@@ -64,9 +64,11 @@ Created a task management tool to help teams collaborate and manage their projec
 ---
 
 ## **Certifications**  
-- **Front-End Web Development with React** – Coursera (2023)  
-- **JavaScript Algorithms and Data Structures** – freeCodeCamp (2022)  
-- **Responsive Web Design** – freeCodeCamp (2021)  
+- **Back-End Pemula dengan JavaScript** – Dicoding (2024)  
+- **Dasar Pemrograman JavaScript** – Dicoding (2024) 
+- **Front-End Web untuk Pemula** – Dicoding (2024)
+- **Dasar Git dengan GitHub** – Dicoding (2024)
+- **Fundamental Front-End Web Development** – Dicoding (2024)      
 
 ---
 
