@@ -46,3 +46,12 @@ Hi, I’m Hasan Basri, a passionate Front-End Developer with 3+ years of experie
 ## **Contact**  
 Feel free to reach out for collaboration or inquiries!  
 📧 basriyoung@gmail.com  
+
+---
+### Github Statistic
+<p align="left">
+<a href="https://github.com/basriyoug">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basriyoung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basriyoung&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
