@@ -27,7 +27,7 @@ Hi, I’m Hasan Basri, a passionate Front-End Developer with 3+ years of experie
 ---
 
 ## **Lerning Progress**  
-### **Bachelor’s Degree in Computer Science**  
+### **Bachelor’s Degree in Information System**  
 - **Universitas Terbuka** | 2020 - 2024 
 - **Dicoding Bootcamp** | 2024
 
