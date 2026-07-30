@@ -20,7 +20,7 @@ Hi, I'm Hasan Basri, I'm a Master's student in Computer Systems and a Full-Stack
 ---
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/basriyoug">
+<a href="https://github.com/basriyoung">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basriyoung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basriyoung&layout=compact&layout=compact&theme=algolia"/>
 </a>
