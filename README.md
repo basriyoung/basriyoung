@@ -18,14 +18,10 @@ Hi, I'm Hasan Basri, I'm a Master's student in Computer Systems and a Full-Stack
 🔗 [GitHub](https://github.com/basriyoung) | [LinkedIn](https://www.linkedin.com/in/hasan-basri-2a9347166/)  
 
 ---
-## 📊 GitHub Stats
 
+## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basriyoung&show_icons=true&theme=algolia" height="170">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basriyoung&layout=compact&theme=algolia" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=basriyoung&theme=algolia"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=basriyoung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=basriyoung&layout=compact&theme=algolia&hide_border=true" height="180em"/>
 </p>
